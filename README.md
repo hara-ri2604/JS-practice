@@ -1,3 +1,3 @@
-# git-practice
+# JS-practice
 
 Javascript研修用のリポジトリ
